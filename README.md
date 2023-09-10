@@ -12,6 +12,6 @@
       - 최종발표
   ### ✅ File format
   - [개인스터디]
-      - Grade_Title_Name.pdf (ex : 2_TeamFNS_홍길동)
+      - Grade_Title_Name.pdf (ex : 2_TeamFNS_홍길동.pdf)
   ### - 📕팀 프로젝트
    - 팀이름.pdf (ex. example.pdf) 
